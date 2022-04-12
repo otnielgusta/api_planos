@@ -8,27 +8,8 @@
         "nome": "Plano B",
         "preco": "30",
         "descricao": ["Leve, Barato, Bom"]
-    },
-    {
-        "nome": "Plano C",
-        "preco": "40",
-        "descricao": ["Leve, Barato, Bom"]
-    },
-    {
-        "nome": "Plano D",
-        "preco": "50",
-        "descricao": ["Leve, Barato, Bom"]
-    },
-    {
-        "nome": "Plano E",
-        "preco": "60",
-        "descricao": ["Leve, Barato, Bom"]
-    },
-    {
-        "nome": "Plano F",
-        "preco": "70",
-        "descricao": ["Leve, Barato, Bom"]
     }
+
 
 
 ]
